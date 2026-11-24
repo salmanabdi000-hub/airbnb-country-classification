@@ -1,0 +1,22 @@
+RUNNING THE NOTEBOOK IN GOOGLE COLAB
+
+1. Open https://colab.research.google.com/ and upload airbnb_classification.ipynb.
+2. Run the imports and setup cell first.
+3. Use the left Files panel to upload your authorised copy of airbnb.csv.
+   The file must appear at /content/airbnb.csv.
+4. Run all remaining cells in order. Cross-validation and tuning may take several minutes.
+5. Download the results when prompted, and save the executed notebook separately.
+
+The notebook imports google.colab and uses /content paths: it targets Colab.
+requirements.txt records the original run's package versions; current Colab
+versions may differ. Fresh execution of this publication copy is not yet verified.
+
+No raw dataset is provided. Obtain an authorised copy from the original
+course provider. Exact original source and licence remain unresolved; this
+means independent public reproduction is not yet fully supported.
+
+COUNTRY is a provisional recorded-category target. DATE_DIFF is excluded
+pending definition. The age range 18-100 is a provisional modelling assumption.
+
+Saved cell outputs have been cleared from this publication copy. Private
+notebook metadata has also been removed. Original notebook is unchanged.
