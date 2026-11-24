@@ -1,5 +1,3 @@
-# airbnb-country-classification
-Practice machine learning project comparing country classification models using Airbnb user data.
 # Airbnb Country Classification
 
 Practice machine learning project evaluating whether recorded age and gender can predict the COUNTRY category in a supplied Airbnb user dataset.
