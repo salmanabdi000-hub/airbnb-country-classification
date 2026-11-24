@@ -32,8 +32,26 @@ The original source, usage permissions, and exact COUNTRY definition remain unde
 
 ## Project status
 
-Initial experiments are complete. The reviewed notebook, execution instructions, and supporting files will be added after final checks.
+Initial experiments are complete. The notebook, dependency versions,
+and Colab instructions are included. Dataset provenance checks,
+fresh execution verification, and the coursework report remain in progress.
 
 ## AI assistance
 
 ChatGPT/Codex assisted with planning, code generation, debugging guidance, and interpretation. Verification completed so far includes inspection of the saved notebook and exported results; a fresh execution check remains outstanding.
+## How to run
+
+1. Download `airbnb_classification.ipynb` from this repository.
+2. Open Google Colab: https://colab.research.google.com/
+3. Select File → Upload notebook and choose the downloaded notebook.
+4. Run the initial imports and setup cell.
+5. Upload an authorised copy of `airbnb.csv` through Colab's Files panel.
+6. Run the remaining cells in order.
+7. Download the generated results when prompted.
+
+See `RUN_IN_COLAB.txt` for further details.
+`requirements.txt` records the library versions used in the original run.
+
+The dataset is not included because its original source and redistribution
+permissions remain unresolved. A fresh execution check of this notebook
+is still outstanding.
