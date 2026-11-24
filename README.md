@@ -41,7 +41,7 @@ fresh execution verification, and the coursework report remain in progress.
 ChatGPT/Codex assisted with planning, code generation, debugging guidance, and interpretation. Verification completed so far includes inspection of the saved notebook and exported results; a fresh execution check remains outstanding.
 ## How to run
 
-1. Download `airbnb_classification.ipynb` from this repository.
+1. Download `airbnb1.ipynb` from this repository.
 2. Open Google Colab: https://colab.research.google.com/
 3. Select File → Upload notebook and choose the downloaded notebook.
 4. Run the initial imports and setup cell.
