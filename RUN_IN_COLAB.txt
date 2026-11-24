@@ -1,6 +1,6 @@
 RUNNING THE NOTEBOOK IN GOOGLE COLAB
 
-1. Open https://colab.research.google.com/ and upload airbnb_classification.ipynb.
+1. Open https://colab.research.google.com/ and upload airbnb1.ipynb.
 2. Run the imports and setup cell first.
 3. Use the left Files panel to upload your authorised copy of airbnb.csv.
    The file must appear at /content/airbnb.csv.
